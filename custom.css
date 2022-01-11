@@ -1,0 +1,21 @@
+.nav-size {
+  font-size: 10px;
+}
+
+.logo {
+  position: absolute;
+  top: 12px;
+  height: auto;
+  width: 325px;
+  z-index: 999;
+}
+
+.small-logo {
+  height: 3.75rem;
+  width: auto;
+}
+
+.small-logo-container {
+  position: absolute;
+  z-index: 999;
+}
