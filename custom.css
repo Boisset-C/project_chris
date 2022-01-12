@@ -1,3 +1,5 @@
+/*INDEX.HTML SECTION (LANDING PAGE) */
+
 .nav-size {
   font-size: 10px;
 }
@@ -6,7 +8,7 @@
   position: absolute;
   top: 12px;
   height: auto;
-  width: 325px;
+  width: 20rem;
   z-index: 999;
 }
 
@@ -16,6 +18,26 @@
 }
 
 .small-logo-container {
+  position: absolute;
+  z-index: 999;
+}
+
+/*INFO.HTML (ABOUT PAGE) */
+
+.info-logo {
+  position: absolute;
+  top: 12px;
+  height: auto;
+  width: 15rem;
+  z-index: 999;
+}
+
+.info-small-logo {
+  height: 3.75rem;
+  width: auto;
+}
+
+.info-small-logo-container {
   position: absolute;
   z-index: 999;
 }
