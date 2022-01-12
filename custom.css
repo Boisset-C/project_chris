@@ -23,7 +23,9 @@
 }
 
 /*INFO.HTML (ABOUT PAGE) */
-
+.info-media-link {
+  font-size: 12px;
+}
 .info-logo {
   position: absolute;
   top: 12px;
